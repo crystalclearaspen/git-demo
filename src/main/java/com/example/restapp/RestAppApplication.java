@@ -13,6 +13,7 @@ public class RestAppApplication {
     }
 
     public static void addData(String data) {
+        // amazing killer feature right here!!!
         System.out.println(data);
     }
 
