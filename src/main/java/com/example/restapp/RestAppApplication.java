@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class RestAppApplication {
 
     public static void main(String[] args) {
+        // Another change from crystal clear
         SpringApplication.run(RestAppApplication.class, args);
     }
 
