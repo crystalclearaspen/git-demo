@@ -8,6 +8,7 @@ public class RestAppApplication {
 
     public static void main(String[] args) {
         // Another change from crystal clear
+        // another change from dev branch
         SpringApplication.run(RestAppApplication.class, args);
     }
 
