@@ -13,6 +13,10 @@ public class RestAppApplication {
     }
 
     public static void addData(String data) {
+        // amazing killer feature right here!!!
+		
+		// because this feature had a bug, I fixed it for you.
+		// here is the code bro.
         System.out.println(data);
     }
 
