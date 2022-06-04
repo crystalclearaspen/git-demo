@@ -10,4 +10,8 @@ public class RestAppApplication {
         SpringApplication.run(RestAppApplication.class, args);
     }
 
+    public static void addData(String data) {
+        System.out.println(data);
+    }
+
 }
